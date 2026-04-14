@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
     {
       title: "Analisis Reservoir Migas dengan Machine Learning",
       category: "Reservoir Engineering",
-      date: "2024-12-15"
+      date: "2024-12-16"
     },
     {
       title: "Optimasi Produksi Sumur Minyak Menggunakan AI",
