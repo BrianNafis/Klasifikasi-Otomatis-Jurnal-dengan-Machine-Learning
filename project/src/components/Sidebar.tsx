@@ -112,7 +112,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
                       className="flex items-center space-x-3 p-3 rounded-lg text-red-600 hover:bg-red-50 transition-colors w-full group"
                     >
                       <ArrowLeftOnRectangleIcon className="h-5 w-5 group-hover:scale-110 transition-transform" />
-                      <span className="font-medium">Logout</span>
+                      <span className="font-medium">Log out</span>
                     </button>
                   </div>
                 </>
