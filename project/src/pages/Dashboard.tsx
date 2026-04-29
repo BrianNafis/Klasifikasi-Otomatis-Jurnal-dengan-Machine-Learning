@@ -26,7 +26,7 @@ const Dashboard: React.FC = () => {
     {
       icon: ChartBarIcon,
       label: 'Akurasi Model',
-      value: '94.2%',
+      value: '94.3%',
       change: '+2.1%',
       color: 'text-purple-600',
       bgColor: 'bg-purple-50'
