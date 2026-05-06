@@ -37,7 +37,7 @@ const Header: React.FC = () => {
             {/* Title */}
             <div className="text-center flex-1 mx-4">
               <h2 className="text-xl font-bold text-gray-800 hidden md:block">
-                Sistem Klasifikasi Jurnal
+                Sistem Klasifikasi Jurnal Otomatis
               </h2>
               <p className="text-sm text-gray-600 hidden lg:block">
                 Klasifikasi Otomatis Jurnal menggunakan Machine Learning
