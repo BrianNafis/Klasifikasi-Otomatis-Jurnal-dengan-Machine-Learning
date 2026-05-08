@@ -40,7 +40,7 @@ const Header: React.FC = () => {
                 Sistem Klasifikasi Jurnal Otomatis
               </h2>
               <p className="text-sm text-gray-600 hidden lg:block">
-                Klasifikasi Otomatis Jurnal menggunakan Machine Learning
+                Klasifikasi Otomatis Jurnal dengan Machine Learning
               </p>
             </div>
           </div>
