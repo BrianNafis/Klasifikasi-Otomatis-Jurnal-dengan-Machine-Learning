@@ -10,7 +10,7 @@ const Dashboard: React.FC = () => {
     {
       icon: DocumentTextIcon,
       label: 'Total Jurnal',
-      value: '1,241',
+      value: '1,048',
       change: '+12%',
       color: 'text-blue-600',
       bgColor: 'bg-blue-50'
