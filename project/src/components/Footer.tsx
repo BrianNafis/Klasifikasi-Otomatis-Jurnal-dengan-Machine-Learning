@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
     {
       title: "Studi Geologi Regional Cekungan Sumatera",
       category: "Geology",
-      date: "2024-12-05"
+      date: "2025-12-05"
     }
   ];
 
